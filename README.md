@@ -1,13 +1,10 @@
-- 👋 Hi, I’m Rakib Hossain from Bangladesh. I started my career as WordPress Support Engineer and then I got the promotion to the Web Developer Position. Being on the role of Support Engineer I provided client support of our WordPress theme and Plugin and solved PHP and JavaScript related bugs. After getting promotion I am working on WordPress theme development which our company sell on Themeforest. We are Power Elite Author on Themeforest. Recently, I am managing the Support team. I give the guide how would the provide support and If they get some major bug they report me and I solve them.
-- 👀 I’m interested in Backend Development. However, I am also interested on front end technologies like Javascript, React JS, Tailwind CSS, Typescript, Vue JS.
-- 🌱 I’m currently learning Wordpress plugin development and React JS. Learning React JS as it is now mostly used for plugin setting page development.
+- 👋 Hi, I am a software engineer from Bangladesh, graduated in Computer Science and Engineering. I have around 4 years of professional experience in web development. My expertise is in WordPress, React, JavaScript, jQuery, Bootstrap, CSS, and HTML. Currently, I am working as a software engineer at Selise Digital Platforms, where I develop scalable web applications for clients in Europe.
+- 👀 I’m interested in Frontend Development. However, I am also interested on backend end technologies like PHP, NodeJS and Python.
 - 💞️ I’m looking to collaborate on Wordpress theme or plugin development project.
 - 📫 I'm here at
 - Linkedin: https://www.linkedin.com/in/rakibwebdev/
 - Email: rakibwebdev1@gmail.com
-- Facebook: https://www.facebook.com/rakib.theengineer
-- WhatsApp: +8801957602444
-
+- WordPress: https://profiles.wordpress.org/rakibwordpress/
 
 - Thank you!
 
