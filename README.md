@@ -1,16 +1,26 @@
 <div>
     <h1>Rakib Hossain </h1>
+    <p>Software Engineer with more than 4 years of experience</p>
 </div>
+<div>
+    <h2>Experienced in:</h2>
 
--   👋 Hi, I am a software engineer from Bangladesh, graduated in Computer Science and Engineering. I have around 4 years of professional experience in web development. My expertise is in WordPress, React, JavaScript, jQuery, Bootstrap, CSS, and HTML. Currently, I am working as a software engineer at Selise Digital Platforms, where I develop scalable web applications for clients in Europe.
--   👀 I’m interested in Frontend Development. However, I am also interested on backend end technologies like PHP, NodeJS and Python.
--   💞️ I’m looking to collaborate on Wordpress theme or plugin development project.
--   📫 I'm here at
--   Linkedin: https://www.linkedin.com/in/rakibwebdev/
--   Email: rakibwebdev1@gmail.com
--   WordPress: https://profiles.wordpress.org/rakibwordpress/
+    <ul>
+        <li>JavaScript</li>
+        <li>ReactJS</li>
+        <li>jQuery</li>
+        <li>PHP</li>
+        <li>WordPress</li>
+        <li>Redux</li>
+        <li>Redux Toolkit</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Bootstrap</li>
+        <li>Git</li>
+        <li>Agile</li>
+    </ul>
 
--   Thank you!
+</div>
 
 <!---
 rakibwebdev/rakibwebdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
