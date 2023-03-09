@@ -1,28 +1,17 @@
-<div>
-    <h1>Rakib Hossain </h1>
-    <p>Software Engineer with more than 4 years of experience</p>
-</div>
-<div>
-    <h2>Experienced in:</h2>
 
-    <ul>
-        <li>JavaScript</li>
-        <li>ReactJS</li>
-        <li>jQuery</li>
-        <li>PHP</li>
-        <li>WordPress</li>
-        <li>Redux</li>
-        <li>Redux Toolkit</li>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>Bootstrap</li>
-        <li>Git</li>
-        <li>Agile</li>
-    </ul>
+# Hi, I'm Md Rakib Hossain! 👋
 
-</div>
 
-<!---
-rakibwebdev/rakibwebdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+As a software engineer with 4 years of experience, I have a strong background in web development, utilizing web development related technologies. I am currently working as a software engineer at Selise Digital Platforms, where I am responsible for designing and implementing innovative solutions to meet the needs of clients. With a passion for staying up-to-date with the latest technologies and industry trends, I am dedicated to delivering high-quality results.
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://#/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakibwebdev/)
+
+
+
+## 🛠 Skills
+JavaScript, ReactJS, jQuery, Redux, PHP, WordPress, HTML, CSS, Bootstrap, TailwindCSS, AJAX, RestAPI
+
